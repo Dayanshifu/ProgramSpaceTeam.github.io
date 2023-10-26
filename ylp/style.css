@@ -1,0 +1,29 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: btfFont;
+    src: url(https://ProgramSpaceTeam.github.io/cloud/font/TypeFont.woff2) format('woff2')
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.9);
+    font-family: btfFont;
+    color: #eee;
+}
+
+* {
+    font-weight: 400;
+}
+
+.home-text {
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    transition: all 1.5s;
+}
