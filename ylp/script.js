@@ -51,5 +51,4 @@ window.onload = function() {
     setTimeout(homef5, 12000)
     setTimeout(homey5, 13500)
     setTimeout(homef6, 15000)
-    setTimeout(window.location.href = "https://ProgramSpaceTeam.github.io/ylp/baike/", 16500)
 }
