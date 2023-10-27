@@ -28,7 +28,7 @@ body {
     animation: left-in 2s;
 }
 
-#left-ch {
+#left-cl {
     position: absolute;
     left: 10%;
     top: 240%;
@@ -91,7 +91,7 @@ button svg {
     text-align: right;
 }
 
-#right-cl {
+#right-ch {
     position: absolute;
     right: 10%;
     top: 340%;
