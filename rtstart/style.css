@@ -9,7 +9,7 @@
 body{
     font-family:"btfFont" !important;
     background: fixed;
-    background-image: url("public/background.jpg");
+    background-image: url(https://pic.imgdb.cn/item/653bbbadc458853aef8a7c7b.jpg);
     background-size: cover;
 }
 .time {
